@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       {/* nav bar */}
-
+      {/* git credentials  solved*/}
       {/* project/asfands-porfolio */}
       <nav id="nav" className="navbar fixed-top navbar-light bg-dark">
         <h3>
